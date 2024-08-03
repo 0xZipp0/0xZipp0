@@ -15,15 +15,16 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!-- More info, tips and tricks for making GitHub Profile README can be found in my article at https://towardsdatascience.com/build-a-stunning-readme-for-your-github-profile-9b80434fe5d7 -->
-<h1 align="center">Yusuf Aziz Mustofa</h1>
+<h1 align="center">Yusuf</h1>
 
 ###
 
 <h2 align="center">"The wise warrior avoids the battle.”</h2>
-<h4 align="center">Sun Tzu</h4>
+
 
 ###
 
+<h4 align="center">Sun Tzu</h4>
 <!--  <h4 align="left">connect with me:</h4> -->
 
 ###
